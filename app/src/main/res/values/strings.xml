@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ProjetDevFest</string>
+    <string name="facebook_application_id" translatable="true">322628261463792</string>
 </resources>
