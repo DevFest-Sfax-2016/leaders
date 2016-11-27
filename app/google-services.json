@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "663785533375",
+    "firebase_url": "https://devfestleaders.firebaseio.com",
+    "project_id": "devfestleaders",
+    "storage_bucket": "devfestleaders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663785533375:android:89bbb7a95c6c62ea",
+        "android_client_info": {
+          "package_name": "com.example.omart.projetdevfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663785533375-eb6ge077jdfe11vq7a6t3pu9mm4fdj81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omart.projetdevfest",
+            "certificate_hash": "C6ACA27969E77E81DB29287D0B2387C61AEFC5A6"
+          }
+        },
+        {
+          "client_id": "663785533375-c87ebu63jh8ss6fqt61uta6g9n63f624.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdBzT2jygHWdISAxyhqZTVD8s-FGdAWhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663785533375-c87ebu63jh8ss6fqt61uta6g9n63f624.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
